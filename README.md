@@ -5,7 +5,7 @@ O objetivo desse repositório é ir colocando as minhas respostas (e os resumos)
 
 ### 1. Multiples of 3 and 5
 Se listarmos todos os números naturais abaixo de 10 que são múltiplos de 3 ou 5, obteremos 3, 5, 6 e 9. A soma desses múltiplos é 23.<br>
-_**Encontre a soma de todos os múltiplos de 3 ou 5 abaixo de 1000**_.
+_**Encontre a soma de todos os múltiplos de 3 ou 5 abaixo de 1000.**_
 
 ### 2.	Even Fibonacci numbers
 Cada novo termo na sequência de Fibonacci é gerado adicionando os dois termos anteriores. Começando com 1 e 2, os primeiros 10 termos serão: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,...<br>
@@ -17,21 +17,21 @@ _**Qual é o maior fator primo do número 600851475143?**_
 
 ### 4.	Largest palindrome product
 Um número palíndromo tem a mesma leitura nos dois sentidos. O maior palíndromo feito do produto de dois números de 2 dígitos é 9009 = 91 × 99. <br>
-_**Encontre o maior palíndromo feito do produto de dois números de 3 dígitos**_.
+_**Encontre o maior palíndromo feito do produto de dois números de 3 dígitos.**_
 
 ### 5.	Smallest multiple
 2520 é o menor número que pode ser dividido por cada um dos números de 1 a 10 sem nenhum resto.<br>
-_**Qual é o menor número positivo que é igualmente divisível por todos os números de 1 a 20**_?
+_**Qual é o menor número positivo que é igualmente divisível por todos os números de 1 a 20?**_
 
 ### 6. Sum square difference
 A soma dos quadrados dos primeiros dez números naturais é 1² + 2² + ... + 10² = 385<br>
 O quadrado da soma dos dez primeiros números naturais é (1 + 2 + ... + 10) 2 = 552 = 3025<br>
 Portanto, a diferença entre a soma dos quadrados dos primeiros dez números naturais e o quadrado da soma é 3025−385 = 2640.<br>
-_**Encontre a diferença entre a soma dos quadrados dos primeiros cem números naturais e o quadrado da soma**_.
+_**Encontre a diferença entre a soma dos quadrados dos primeiros cem números naturais e o quadrado da soma.**_
 
 ### 7.	10001st prime
 Listando os primeiros seis números primos: 2, 3, 5, 7, 11 e 13, podemos ver que o 6º primo é 13.<br>
-_**Qual é o 10.001º número primo**_?
+_**Qual é o 10.001º número primo?**_
 
 ### 8.	Largest product in a series
 Os quatro dígitos adjacentes no número de 1000 dígitos que têm o maior produto são 9 × 9 × 8 × 9 = 5832. <br>
@@ -43,16 +43,16 @@ Os quatro dígitos adjacentes no número de 1000 dígitos que têm o maior produ
 <br> 24219022671055626321111109370544217506941658960408 <br> 07198403850962455444362981230987879927244284909188 <br> 84580156166097919133875499200524063689912560717606 
 <br> 05886116467109405077541002256983155200055935729725 <br> 71636269561882670428252483600823257530420752963450 <br>
 
-_**Encontre os treze dígitos adjacentes no número de 1000 dígitos que tem o maior produto. Qual é o valor deste produto**_?
+_**Encontre os treze dígitos adjacentes no número de 1000 dígitos que tem o maior produto. Qual é o valor deste produto?**_
 
 ### 9.	Special Pythagorean triplet
 Um tripleto pitagórico é um conjunto de três números naturais, a < b < c, para os quais a² + b² = c².<br>
 Por exemplo, 32 + 42 = 9 + 16 = 25 = 52. Existe exatamente um trio pitagórico para o qual a + b + c = 1000. <br>
-_**Encontre o produto abc**_.
+_**Encontre o produto abc.**_
 
 ### 10.	Summation of primes
 A soma dos números primos abaixo de 10 é 2 + 3 + 5 + 7 = 17. <br>
-_**Encontre a soma de todos os primos abaixo de dois milhões**_.
+_**Encontre a soma de todos os primos abaixo de dois milhões.**_
 
 ### 11.	Largest product in a grid
 Na grade 20 × 20 abaixo, quatro números ao longo de uma linha diagonal foram marcados em bold.<br>
@@ -79,7 +79,7 @@ Na grade 20 × 20 abaixo, quatro números ao longo de uma linha diagonal foram m
 01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48 <br>
 
 O produto desses números é 26 × 63 × 78 × 14 = 1788696.<br>
-_**Qual é o maior produto de quatro números adjacentes na mesma direção (para cima, para baixo, para a esquerda, para a direita ou diagonal) na grade 20 × 20**_?
+_**Qual é o maior produto de quatro números adjacentes na mesma direção (para cima, para baixo, para a esquerda, para a direita ou diagonal) na grade 20 × 20?**_
 
 ### 12.	Highly divisible triangular number
 A sequência de números de triângulos é gerada adicionando os números naturais. <br>
@@ -96,7 +96,7 @@ Vamos listar os fatores dos primeiros sete números de triângulo: <br>
 **28:** 1,2,4,7,14,28 <br>
 
 Podemos ver que 28 é o primeiro número do triângulo a ter mais de cinco divisores. <br>
-_**Qual é o valor do primeiro número do triângulo com mais de quinhentos divisores**_?
+_**Qual é o valor do primeiro número do triângulo com mais de quinhentos divisores?**_
 
 
 
