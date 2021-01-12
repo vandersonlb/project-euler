@@ -1,5 +1,5 @@
 ## Project Euler
-O objetivo desse repositório é ir colocando as minhas respostas (e os resumos) dos desafios so site [Project Euler](https://projecteuler.net/archives).
+O objetivo desse repositório é ir colocando as minhas respostas (e os resumos) dos desafios do site [Project Euler](https://projecteuler.net/archives).
 
 ## Problems
 
