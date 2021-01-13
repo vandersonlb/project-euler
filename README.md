@@ -107,7 +107,8 @@ A seguinte sequência iterativa é definida para o conjunto de inteiros positivo
 _n → n / 2 (se n for par)_ <br>
 _n → 3n + 1 (se n for ímpar)_ <br>
 
-Usando a regra acima e começando com 13, geramos a seguinte sequência: 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1 <br>
+Usando a regra acima e começando com 13, geramos a seguinte sequência: <br>
+13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1 <br>
 
 Percebe-se que esta sequência (começando em 13 e terminando em 1) contém 10 termos. <br>
 _**Qual número inicial, abaixo de um milhão, produz a cadeia mais longa?**_
