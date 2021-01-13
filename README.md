@@ -98,8 +98,26 @@ Vamos listar os fatores dos primeiros sete números de triângulo: <br>
 Podemos ver que 28 é o primeiro número do triângulo a ter mais de cinco divisores. <br>
 _**Qual é o valor do primeiro número do triângulo com mais de quinhentos divisores?**_
 
+### 13	Large sum
+_**Calcule os primeiros dez dígitos da soma dos cem números de 50 dígitos a seguir.**_ <br>
+[Link com os 100 números](https://projecteuler.net/problem=13)
 
+### 14	Longest Collatz sequence
+A seguinte sequência iterativa é definida para o conjunto de inteiros positivos: <br>
+_n → n / 2 (se n for par)_ <br>
+_n → 3n + 1 (se n for ímpar)_ <br>
 
+Usando a regra acima e começando com 13, geramos a seguinte sequência: 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1 <br>
+
+Percebe-se que esta sequência (começando em 13 e terminando em 1) contém 10 termos. <br>
+_**Qual número inicial, abaixo de um milhão, produz a cadeia mais longa?**_
+
+### 15	Lattice paths
+Começando no canto superior esquerdo de uma grade 2 × 2, e apenas sendo capaz de se mover para a direita e para baixo, existem exatamente 6 rotas para o canto inferior direito. <br>
+
+![](https://projecteuler.net/project/images/p015.png) <br>
+
+_**Quantas dessas rotas existem em uma grade 20 × 20?**_
 
 
 
