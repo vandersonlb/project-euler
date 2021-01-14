@@ -113,13 +113,6 @@ Usando a regra acima e começando com 13, geramos a seguinte sequência: <br>
 Percebe-se que esta sequência (começando em 13 e terminando em 1) contém 10 termos. <br>
 _**Qual número inicial, abaixo de um milhão, produz a cadeia mais longa?**_
 
-### 15	Lattice paths
-Começando no canto superior esquerdo de uma grade 2 × 2, e apenas sendo capaz de se mover para a direita e para baixo, existem exatamente 6 rotas para o canto inferior direito. <br>
-
-![](https://projecteuler.net/project/images/p015.png) <br>
-
-_**Quantas dessas rotas existem em uma grade 20 × 20?**_
-
 
 
 
