@@ -113,6 +113,10 @@ Usando a regra acima e começando com 13, geramos a seguinte sequência: <br>
 Percebe-se que esta sequência (começando em 13 e terminando em 1) contém 10 termos. <br>
 _**Qual número inicial, abaixo de um milhão, produz a cadeia mais longa?**_
 
+### 16 Power digit sum
+2^15 = 32768 e a soma de seus dígitos é 3 + 2 + 7 + 6 + 8 = 26. <br>
+_**Qual é a soma dos dígitos do número 2^1000?**_
+
 ### 17 Number letter counts
 
 Se os números de 1 a 5 forem escritos em palavras: one, two, three, four, five.<br>
