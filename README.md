@@ -123,5 +123,4 @@ Se os números de 1 a 5 forem escritos em palavras: one, two, three, four, five.
 Então há 3 + 3 + 5 + 4 + 4 = 19 letras usadas no total.
 
 _**Se todos os números de 1 a 1000 (inclusive) fossem escritos em palavras, quantas letras seriam usadas?**_<br>
-_NOTA: Não conte espaços ou hifens. Por exemplo, 342 (three hundred and forty-two) contém 23 letras e 115  (one hundred and fifteen) contém 20 letras.<br>
-O uso de "and" ao escrever números está em conformidade com o uso britânico._
+_NOTA: Não conte espaços ou hifens. Por exemplo, 342 (three hundred and forty-two) contém 23 letras e 115  (one hundred and fifteen) contém 20 letras._
